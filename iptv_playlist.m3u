@@ -1,0 +1,207 @@
+#EXTM3U cache=1000 playlist=1 deinterlace=1 url-tvg="http://iptv2.k-telecom.org/firmware/2.xml" m3uautoload=1
+#EXTINF:-1 group-title="Для всей семьи" tvg-logo=http://iptv2.k-telecom.org/logos/4710.png tvg-shift=0 tvg-name="1",Первый канал
+udp://@239.255.0.1:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/5150.png tvg-shift=0 tvg-name="2",Россия 1
+udp://@239.255.0.2:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/5170.png tvg-shift=0 tvg-name="3",Матч ТВ
+udp://@239.255.0.5:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/4250.png tvg-shift=0 tvg-name="8",НТВ
+udp://@239.255.0.3:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/4970.png tvg-shift=0 tvg-name="6",Петербург - 5 канал
+udp://@239.255.0.9:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/5210.png tvg-shift=0 tvg-name="4",Россия К
+udp://@239.255.0.4:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/5190.png tvg-shift=0 tvg-name="5",Россия 24
+udp://@239.255.0.6:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/2830.png tvg-shift=0 tvg-name="70",Карусель
+udp://@239.255.0.8:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/4500.png tvg-shift=0 tvg-name="138",ОТР
+udp://@239.255.0.132:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/5950.png tvg-shift=0 tvg-name="13",ТВЦ Урал
+udp://@239.255.0.86:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/5090.png tvg-shift=0 tvg-name="142",Рен ТВ
+udp://@239.255.0.55:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/5510.png tvg-shift=0 tvg-name="166",Спас
+udp://@239.255.0.129:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/5710.png tvg-shift=0 tvg-name="39",СТС
+udp://@239.255.0.24:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/411.png tvg-shift=0 tvg-name="11",Домашний
+udp://@239.255.0.25:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/5830.png tvg-shift=0 tvg-name="38",ТВ 3
+udp://@239.255.0.19:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/410.png tvg-shift=0 tvg-name="10",Пятница
+udp://@239.255.0.20:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/6130.png tvg-shift=0 tvg-name="9",ТНТ
+udp://@239.255.0.22:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/3770.png tvg-shift=0 tvg-name="89",МУЗ-ТВ
+udp://@239.255.0.85:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/4480.png tvg-shift=0 tvg-name="7",ОТВ
+udp://@239.255.0.7:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/411.png tvg-shift=0 tvg-name="238",41 Домашний
+udp://@239.255.0.21:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/810.png tvg-shift=0 tvg-name="14",8 Канал
+udp://@239.255.0.14:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/4830.png tvg-shift=0 tvg-name="136",360
+udp://@239.255.0.18:1234
+#EXTINF:-1 group-title="HD" tvg-logo=http://iptv2.k-telecom.org/logos/4705.png tvg-shift=0 tvg-name="15",Первый канал HD
+udp://@239.255.0.140:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/5145.png tvg-shift=0 tvg-name="16",Россия HD
+udp://@239.255.0.141:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/4830.png tvg-shift=0 tvg-name="146",360 HD
+udp://@239.255.0.149:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/5530.png tvg-shift=0 tvg-name="18",Матч! Арена HD
+udp://@239.255.0.143:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/12095.png tvg-shift=0 tvg-name="21",Fox Life HD
+udp://@239.255.0.146:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/3650.png tvg-shift=0 tvg-name="111",Мир HD
+udp://@239.255.0.144:1234
+#EXTINF:-1 group-title="Увлечения" tvg-logo=http://iptv2.k-telecom.org/logos/6310.png tvg-shift=0 tvg-name="29",Усадьба ТВ
+udp://@239.255.0.47:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/1960.png tvg-shift=0 tvg-name="30",Драйв
+udp://@239.255.0.44:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/4530.png tvg-shift=0 tvg-name="31",Охота и рыбалка
+udp://@239.255.0.45:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/5110.png tvg-shift=0 tvg-name="12",Ретро
+udp://@239.255.0.43:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/2055.png tvg-shift=0 tvg-name="135",ЕДА
+udp://@239.255.0.12:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/5877.png tvg-shift=0 tvg-name="208",Твой дом
+udp://@239.255.0.154:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/3725.png tvg-shift=0 tvg-name="218",Мужской
+udp://@239.255.0.155:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/1305.png tvg-shift=0 tvg-name="227",Бобер
+udp://@239.255.0.156:1234
+#EXTINF:-1 group-title="Развлекательные" tvg-logo=http://iptv2.k-telecom.org/logos/2065.png tvg-shift=0 tvg-name="145",ETB
+udp://@239.255.0.48:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/1980.png tvg-shift=0 tvg-name="40",Че
+udp://@239.255.0.35:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/3060.png tvg-shift=0 tvg-name="41",ТНТ4
+udp://@239.255.0.38:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/280.png tvg-shift=0 tvg-name="42",2x2
+udp://@239.255.0.34:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/7250.png tvg-shift=0 tvg-name="44",Юмор BOX
+udp://@239.255.0.52:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/7200.png tvg-shift=0 tvg-name="82",Ю-ТВ
+udp://@239.255.0.30:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/5050.png tvg-shift=0 tvg-name="46",РазТВ
+udp://@239.255.0.94:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/2825.png tvg-shift=0 tvg-name="177",Калейдоскоп ТВ
+udp://@239.255.0.40:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/5410.png tvg-shift=0 tvg-name="210",Сарафан
+udp://@239.255.0.41:1234
+#EXTINF:-1 group-title="Познавательные" tvg-logo=http://iptv2.k-telecom.org/logos/2450.png tvg-shift=0 tvg-name="54",Звезда
+udp://@239.255.0.27:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/3690.png tvg-shift=0 tvg-name="137",Моя Планета
+udp://@239.255.0.116:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/15200.png tvg-shift=0 tvg-name="51",Нано ТВ
+udp://@239.255.0.73:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/17050.png tvg-shift=0 tvg-name="52",Russian Travel Guide
+udp://@239.255.0.72:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/4880.png tvg-shift=0 tvg-name="163",Просвещение
+udp://@239.255.0.61:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/2750.png tvg-shift=0 tvg-name="55",История
+udp://@239.255.0.82:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/4790.png tvg-shift=0 tvg-name="106",Первый образовательный
+udp://@239.255.0.29:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/6152.png tvg-shift=0 tvg-name="112",Точка ТВ
+udp://@239.255.0.66:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/15210.png tvg-shift=0 tvg-name="56",National Geographic Channel
+udp://@239.255.0.102:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/17860.png tvg-shift=0 tvg-name="220",TVMChannel
+udp://@239.255.0.111:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/34.png tvg-shift=0 tvg-name="237",Министерство идей
+udp://@239.255.0.81:1234
+#EXTINF:-1 group-title="Информационные" tvg-logo=http://iptv2.k-telecom.org/logos/3650.png tvg-shift=0 tvg-name="61",Мир
+udp://@239.255.0.16:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/16915.png tvg-shift=0 tvg-name="68",Russia Today DOC
+udp://@239.255.0.113:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/3085.png tvg-shift=0 tvg-name="69",Крик ТВ
+udp://@239.255.0.67:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/6160.png tvg-shift=0 tvg-name="60",ТРО Союз
+udp://@239.255.0.15:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/5130.png tvg-shift=0 tvg-name="62",РЖД
+udp://@239.255.0.17:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/3645.png tvg-shift=0 tvg-name="113",Мир 24
+udp://@239.255.0.36:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/16910.png tvg-shift=0 tvg-name="63",Russia Today
+udp://@239.255.0.89:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/11250.png tvg-shift=0 tvg-name="64",Deutsche Welle
+udp://@239.255.0.75:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/12110.png tvg-shift=0 tvg-name="65",France 24
+udp://@239.255.0.121:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/3084.png tvg-shift=0 tvg-name="203",Красная линия
+udp://@239.255.0.171:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/1430.png tvg-shift=0 tvg-name="207",Вместе РФ
+udp://@239.255.0.172:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/3230.png tvg-shift=0 tvg-name="234",ЛДПР-ТВ
+udp://@239.255.0.174:1234
+#EXTINF:-1 group-title="Детские" tvg-logo=http://iptv2.k-telecom.org/logos/11330.png tvg-shift=0 tvg-name="76",Disney
+udp://@239.255.0.56:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/1820.png tvg-shift=0 tvg-name="73",Детский
+udp://@239.255.0.80:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/3735.png tvg-shift=0 tvg-name="107",Мульт
+udp://@239.255.0.115:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/10122.png tvg-shift=0 tvg-name="167",Ani
+udp://@239.255.0.93:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/35.png tvg-shift=0 tvg-name="228",О!
+udp://@239.255.0.92:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/4802.png tvg-shift=0 tvg-name="214",Пингвин ЛоЛо
+udp://@239.255.0.98:1234
+#EXTINF:-1 group-title="Спортивный" tvg-logo=http://iptv2.k-telecom.org/logos/3170.png tvg-shift=0 tvg-name="78",КХЛ
+udp://@239.255.0.84:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/5550.png tvg-shift=0 tvg-name="79",Матч! Игра
+udp://@239.255.0.91:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/6450.png tvg-shift=0 tvg-name="209",Футбол
+udp://@239.255.0.100:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/5350.png tvg-shift=0 tvg-name="37",Русский Экстрим
+udp://@239.255.0.120:1234
+#EXTINF:-1 group-title="Музыка" tvg-logo=http://iptv2.k-telecom.org/logos/410.png tvg-shift=0 tvg-name="143",4 Канал + Пятница
+udp://@239.255.0.28:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/10190.png tvg-shift=0 tvg-name="81",ТНТ Music
+udp://@239.255.0.105:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/17070.png tvg-shift=0 tvg-name="83",RU.TV
+udp://@239.255.0.54:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/11730.png tvg-shift=0 tvg-name="84",Европа Плюс ТВ
+udp://@239.255.0.26:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/10510.png tvg-shift=0 tvg-name="85",BRIDGE TV
+udp://@239.255.0.39:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/17030.png tvg-shift=0 tvg-name="86",MusicBox RU
+udp://@239.255.0.70:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/6810.png tvg-shift=0 tvg-name="91",Шансон ТВ
+udp://@239.255.0.95:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/11200.png tvg-shift=0 tvg-name="90",DANGE TV
+udp://@239.255.0.110:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/17010.png tvg-shift=0 tvg-name="92",Rusong TV
+udp://@239.255.0.90:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/905.png tvg-shift=0 tvg-name="114",9 волна
+udp://@239.255.0.133:1234
+#EXTINF:-1 group-title="Кино" tvg-logo=http://iptv2.k-telecom.org/logos/1940.png tvg-shift=0 tvg-name="93",Дом Кино
+udp://@239.255.0.23:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/2050.png tvg-shift=0 tvg-name="94",Еврокино
+udp://@239.255.0.63:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/5715.png tvg-shift=0 tvg-name="144",СТС Love
+udp://@239.255.0.57:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/3360.png tvg-shift=0 tvg-name="178",Любимое кино
+udp://@239.255.0.119:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/5330.png tvg-shift=0 tvg-name="98",Русский Иллюзион
+udp://@239.255.0.78:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/2630.png tvg-shift=0 tvg-name="99",Иллюзион +
+udp://@239.255.0.79:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/3970.png tvg-shift=0 tvg-name="45",Настоящее Страшное Телевидение
+udp://@239.255.0.76:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/5340.png tvg-shift=0 tvg-name="103",Русский Роман
+udp://@239.255.0.83:1234
+#EXTINF:-1 group-title="Национальное ТВ" tvg-logo=http://iptv2.k-telecom.org/logos/6110.png tvg-shift=0 tvg-name="104",ТНВ
+udp://@239.255.0.62:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/15320.png tvg-shift=0 tvg-name="141",NHK World TV
+udp://@239.255.0.134:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/10125.png tvg-shift=0 tvg-name="164",Arirang
+udp://@239.255.0.135:1234
+#EXTINF:-1 group-title="Религиозные" tvg-logo=http://iptv2.k-telecom.org/logos/5490.png tvg-shift=0 tvg-name="132",Союз
+udp://@239.255.0.130:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/36.png tvg-shift=0 tvg-name="161",Три Ангела
+udp://@239.255.0.131:1234
+#EXTINF:-1 group-title="Бизнес" tvg-logo=http://iptv2.k-telecom.org/logos/4865.png tvg-shift=0 tvg-name="149",ПРО Бизнес
+udp://@239.255.0.114:1234
+#EXTINF:-1 tvg-logo=http://iptv2.k-telecom.org/logos/5070.png tvg-shift=0 tvg-name="59",РБК
+udp://@239.255.0.37:1234
